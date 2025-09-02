@@ -57,9 +57,10 @@ This dashboard is built in Power BI using basic DAX formulas to offer a fully in
 <h2>Folder Structure</h2>
 
 <pre>
-Mobile-Sales-Insights/
+Mobile-Sales-Insight
 ├── Sales Project.pbix
 ├── Sales Data ( Power BI ) 1.jpg
+├── Sales Data ( Power BI ) 2.jpg
 └── README.md
 </pre>
 
