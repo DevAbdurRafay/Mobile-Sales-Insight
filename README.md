@@ -61,6 +61,7 @@ Mobile-Sales-Insight
 ├── Sales Project.pbix
 ├── Sales Data ( Power BI ) 1.jpg
 ├── Sales Data ( Power BI ) 2.jpg
+├── Mobile Sales Data.xlsx
 └── README.md
 </pre>
 
