@@ -14,6 +14,15 @@ This dashboard is built in Power BI using basic DAX formulas to offer a fully in
 
 <hr>
 
+<h2>Software Used</h2>
+<p align="left">
+  <a href="https://powerbi.microsoft.com/">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge"/>
+  </a>
+</p>
+
+<hr>
+
 <h2>Key Features</h2>
 <ul>
   <li>Geographic sales analysis with regional mapping</li>
