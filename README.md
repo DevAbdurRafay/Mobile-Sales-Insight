@@ -1,4 +1,5 @@
 <h1 align="center">Mobile Sales Insight</h1>
+
 <p align="center">
 An interactive Power BI dashboard for analyzing mobile phone sales, performance trends, customer behavior, and brand comparisons.
 </p>
